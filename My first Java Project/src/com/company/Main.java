@@ -10,6 +10,7 @@ public class Main {
         byte num5 = 10;
         byte num6 = 15;
         char sym = '$';
+
         //boolean = true or false
         boolean isTrue = true;
         String FirstName = "Leonid";
