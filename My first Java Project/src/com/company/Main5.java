@@ -10,7 +10,7 @@ public class Main5 {
         System.out.print("When is Happy New Year?");
         date = scn.nextInt();
 
-        switch (date){
+         switch (date){
             case 1:
                 System.out.print ("Happy New Year!");
                 break;
