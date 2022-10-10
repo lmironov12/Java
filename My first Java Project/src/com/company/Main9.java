@@ -36,7 +36,6 @@ public class Main9 {
                     result = num1 - num2;
                     System.out.println ("Result is " + result);
                     break;
-
-        }
+        }  System.out.print("Hello World");
     }
 }
