@@ -37,5 +37,6 @@ public class Main9 {
                     System.out.println ("Result is " + result);
                     break;
         }  System.out.print("Hello World");
+        System.out.print("Hello World");
     }
 }
