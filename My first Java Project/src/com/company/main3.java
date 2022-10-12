@@ -14,3 +14,4 @@ public class main3 {
         System.out.print("Sum of two number is: " + result);
     }
 }
+
