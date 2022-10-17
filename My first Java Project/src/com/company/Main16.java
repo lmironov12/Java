@@ -17,4 +17,3 @@ public class Main16{
         System.out.print (Arrays.toString(names));
     }
 }
-
