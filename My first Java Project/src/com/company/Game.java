@@ -1,8 +1,16 @@
 package com.company;
 
+import java.util.Scanner;
+
 public class Game {
     public static void main (String[] args) {
         int num1; int num2;
+        Scanner scn = new Scanner(System.in);
+        System.out.println("Это игра!");
+        System.out.println("Правила игры: Сумма двух чисел должна быть меньше 100. Если больше - проиграл.");
+
+        System.out.println("Введите первой число ");
+
     }
 }
 
