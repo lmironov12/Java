@@ -16,9 +16,10 @@ public class Wcycle {
 //                    if (i>5){
 //                    break;
         int i = 0;
-        while (i < 5) {
+        while (i < 10) {
             i++;
-            System.out.println("Hello World");
+            System.out.println(i);
+            i = (int) Math.round(Math.random() * 200);
             }
         }
     }
