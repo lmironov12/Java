@@ -8,7 +8,7 @@ public class PhonesDemo2 {
     PhonesDemo2(){
 
     }
-PhonesDemo2(String model, int price, int memory) {
+PhonesDemo2(String model, int price, int memory){
     this.model = model;
     this.price = price;
     this.memory = memory;
